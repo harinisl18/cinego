@@ -1,0 +1,9 @@
+## Result
+
+The Movie Ticket Booking System is designed to simplify the process of booking movie tickets online. It enables users to register, log in, browse movies, select showtimes, choose seats, calculate ticket prices, and confirm bookings.
+
+The system also supports booking history and administrative management of movies and showtimes. Functional and non-functional requirements help ensure usability, reliability, security, and correct seat allocation.
+
+The project provides a foundation for an efficient and user-friendly movie ticket booking application. Additional features, such as online payment integration, QR-code tickets, and email notifications, can be implemented in future versions.
+
+**Conclusion:** The Movie Ticket Booking System demonstrates how web technologies and database management can be combined to provide a convenient and organized online ticket booking experience.
