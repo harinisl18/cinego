@@ -1,0 +1,42 @@
+# Movie Ticket Booking System
+
+## Project Overview
+
+The Movie Ticket Booking System is a web-based application that allows users to browse movies, view showtimes, select seats, and book movie tickets online. It reduces manual booking work and provides a simple and convenient booking experience.
+
+## Objectives
+
+* To make movie ticket booking easy and convenient.
+* To display available movies and showtimes.
+* To allow users to select seats and book tickets online.
+* To calculate the total ticket price automatically.
+* To provide booking confirmation and booking history.
+
+## Main Features
+
+* User registration and login.
+* Browse available movies.
+* View movie details and showtimes.
+* Select seats and calculate ticket prices.
+* Confirm and cancel bookings.
+* View booking history.
+* Admin management of movies and shows.
+
+## Technologies Used
+
+* Frontend: HTML, CSS, JavaScript.
+* Backend: Java / Python / Node.js.
+* Database: MySQL / MongoDB.
+* Tools: Git and GitHub.
+
+## Expected Outcome
+
+The system provides an easy-to-use platform for online movie ticket booking, improves booking efficiency, and reduces errors in seat allocation.
+
+## Future Enhancements
+
+* Online payment integration.
+* QR-code-based tickets.
+* Email or SMS notifications.
+* Movie ratings and reviews.
+* Mobile application support.
