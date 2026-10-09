@@ -1,0 +1,38 @@
+A. Functional requirements
+
+Functional requirements describe what the system should do.
+
+User Registration: Allow new users to create an account.
+
+User Login: Authenticate users using their credentials.
+
+Movie Listing: Display currently available movies.
+
+Movie Details: Show the movie title, language, genre, duration, and description.
+
+Showtime Selection: Allow users to choose a theatre, date, and showtime.
+
+Seat Selection: Display available, selected, and booked seats.
+
+Ticket Booking: Allow users to confirm their bookings.
+
+
+
+B. Non-functional requirements
+
+Non-functional requirements describe how well the system should perform.
+
+Performance: Pages and booking details should load quickly under normal usage.
+
+Security: Protect user information and passwords.
+
+Usability: Provide a simple and user-friendly interface.
+
+Reliability: Ensure booking information is stored correctly.
+
+Scalability: Support an increasing number of users and bookings.
+
+Maintainability: Make the code easy to update and maintain.
+
+Data Integrity: Prevent the same seat from being confirmed for two bookings in the same show.
+
