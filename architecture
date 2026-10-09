@@ -1,0 +1,16 @@
+          USER
+            |
+            v
+   PRESENTATION LAYER
+   (HTML, CSS, JavaScript)
+            |
+            v
+   APPLICATION LAYER
+   (Backend API and Logic)
+            |
+            v
+      DATABASE LAYER
+   (MySQL / MongoDB)
+            |
+            v
+    Booking Information
