@@ -1,0 +1,79 @@
+Test Case 1: User Registration
+
+Input: Valid username, email, and password.
+
+Expected Result: The user account should be created successfully.
+
+Status: Pass / Fail
+
+Test Case 2: User Login
+
+Input: Registered email and correct password.
+
+Expected Result: The user should log in and access the home page.
+
+Status: Pass / Fail
+
+Test Case 3: Invalid Login
+
+Input: Incorrect email or password.
+
+Expected Result: The system should display an error message.
+
+Status: Pass / Fail
+
+Test Case 4: Movie Listing
+
+Input: Open the movie dashboard.
+
+Expected Result: Available movies and their details should be displayed.
+
+Status: Pass / Fail
+
+Test Case 5: Showtime Selection
+
+Input: Select a movie, theatre, date, and showtime.
+
+Expected Result: The selected show details should be displayed correctly.
+
+Status: Pass / Fail
+
+Test Case 6: Seat Selection
+
+Input: Select available seats.
+
+Expected Result: The selected seats should be highlighted and added to the booking.
+
+Status: Pass / Fail
+
+Test Case 7: Already Booked Seat
+
+Input: Attempt to book a seat that is already reserved.
+
+Expected Result: The system should prevent duplicate seat booking.
+
+Status: Pass / Fail
+
+Test Case 8: Ticket Price Calculation
+
+Input: Select multiple seats.
+
+Expected Result: The total ticket price should be calculated correctly.
+
+Status: Pass / Fail
+
+Test Case 9: Booking Confirmation
+
+Input: Confirm a valid ticket booking.
+
+Expected Result: The system should generate a booking ID and display confirmation.
+
+Status: Pass / Fail
+
+Test Case 10: Booking History
+
+Input: Open the booking history page.
+
+Expected Result: The user's previous and upcoming bookings should be displayed correctly.
+
+Status: Pass / Fail
